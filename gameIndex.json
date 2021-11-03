@@ -1,5 +1,380 @@
 [
   {
+    "name": "Transference",
+    "id": {
+      "steam": "647570",
+      "uplay": ["10871"]
+    },
+    "bin": [
+      "Transference.exe"
+    ]
+  },
+  {
+    "name": "Starlink: Battle for Atlas",
+    "id": {
+      "steam": "950050",
+      "uplay": ["5277"]
+    },
+    "bin": [
+      "Starlink.exe"
+    ]
+  },
+  {
+    "name": "Far Cry New Dawn",
+    "id": {
+      "uplay": ["5210"]
+    },
+    "bin": [
+      "FarCryNewDawn.exe"
+    ]
+  },
+  {
+    "name": "Assassin's Creed III Remastered",
+    "id": {
+      "uplay": ["5183"]
+    },
+    "bin": [
+      "ACIII.exe",
+      "ACLiberation.exe"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Odyssey",
+    "id": {
+      "steam": "812140",
+      "uplay": ["5059"]
+    },
+    "bin": [
+      "ACOdyssey.exe"
+    ]
+  },
+  {
+    "name": "Tom Clancy's The Division 2",
+    "id": {
+      "uplay": ["4932"]
+    },
+    "bin": [
+      "TheDivision2.exe"
+    ]
+  },
+  {
+    "name": "Anno 1800",
+    "id": {
+      "uplay": ["4553"]
+    },
+    "bin": [
+      "Anno1800.exe"
+    ]
+  },
+  {
+    "name": "Monopoly Plus",
+    "id": {
+      "uplay": ["3774"]
+    },
+    "bin": [
+      "Monopoly.exe"
+    ]
+  },
+  {
+    "name": "South Park™: The Stick of Truth™",
+    "id": {
+      "steam": "213670",
+      "uplay": ["3584"]
+    },
+    "bin": [
+      "South Park - The Stick of Truth.exe"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Origins",
+    "id":{
+      "steam": "582160",
+      "uplay": ["3539"]
+    },
+    "bin": [
+      "ACOrigins.exe"
+    ]
+  },
+  {
+    "name": "UNO",
+    "id":{
+      "uplay": ["3352"]
+    },
+    "bin": [
+      "UNO.exe"
+    ]
+  },
+  {
+    "name": "Steep",
+    "id":{
+      "uplay": ["3279"]
+    },
+    "bin": [
+      "steep.exe"
+    ]
+  },
+  {
+    "name": "Just Dance 2017",
+    "id":{
+      "uplay": ["3130"]
+    },
+    "bin": [
+      "JD2017.exe"
+    ]
+  },
+  {
+    "name": "The Crew 2",
+    "id":{
+      "steam": "646910",
+      "uplay": ["2855","5037"]
+    },
+    "bin": [
+      "TheCrew2.exe"
+    ]
+  },
+  {
+    "name": "Trials of the Blood Dragon",
+    "id":{
+      "steam": "435480",
+      "uplay": ["2741"]
+    },
+    "bin": [
+      "trialsblooddragon.exe"
+    ]
+  },
+  {
+    "name": "Watch_Dogs 2",
+    "id":{
+      "uplay": ["2688"]
+    },
+    "bin": [
+      "WatchDogs2.exe"
+    ]
+  },
+  {
+    "name": "Trackmania Turbo",
+    "id":{
+      "uplay": ["2070"]
+    },
+    "bin": [
+      "TrackmaniaTurbo.exe"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Syndicate",
+    "id":{
+      "uplay": ["1875"]
+    },
+    "bin": [
+      "ACS.exe"
+    ]
+  },
+  {
+    "name": "Far Cry 5",
+    "id":{
+      "uplay": ["1803","4311"]
+    },
+    "bin": [
+      "FarCry5.exe"
+    ]
+  },
+  {
+    "name": "Tom Clancy's Ghost Recon Wildlands",
+    "id":{
+      "uplay": ["1771","3559"]
+    },
+    "bin": [
+      "GRW.exe"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Chronicles: China",
+    "id":{
+      "uplay": ["1651","1841"]
+    },
+    "bin": [
+      "ACCGame-Win32-Shipping.exe"
+    ]
+  },
+  {
+    "name": "Might & Magic Heroes VII – Trial by Fire",
+    "id":{
+      "uplay": ["1176"]
+    },
+    "bin": [
+      "MMH7Game-Win64-Shipping.exe"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Rogue",
+    "id":{
+      "uplay": ["895"]
+    },
+    "bin": [
+      "ACC.exe"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Unity",
+    "id":{
+      "uplay": ["720","857","944","945"]
+    },
+    "bin": [
+      "ACU.exe"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Freedom Cry",
+    "id":{
+      "uplay": ["664"]
+    },
+    "bin": [
+      "ACFC.exe"
+    ]
+  },
+  {
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "id":{
+      "uplay": ["635","1842","1843","1844"]
+    },
+    "bin": [
+      "RainbowSix.exe"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Liberation HD",
+    "id":{
+      "uplay": ["625"]
+    },
+    "bin": [
+      "ac3lhd_32.exe"
+    ]
+  },
+  {
+    "name": "ForHonor",
+    "id":{
+      "uplay": ["569","2916"]
+    },
+    "bin": [
+      "forhonor.exe"
+    ]
+  },
+  {
+    "name": "Flashback",
+    "id":{
+      "uplay": ["422"]
+    },
+    "bin": [
+      "Flashback.exe"
+    ]
+  },
+  {
+    "name": "Far Cry 4",
+    "id":{
+      "uplay": ["420","856"]
+    },
+    "bin": [
+      "FarCry4.exe"
+    ]
+  },
+  {
+    "name": "The Crew (Worldwide)",
+    "id":{
+      "uplay": ["413","414","507"]
+    },
+    "bin": [
+      "TheCrew.exe"
+    ]
+  },
+  {
+    "name": "Rayman Legends",
+    "id":{
+      "uplay": ["410","418"]
+    },
+    "bin": [
+      "Rayman Legends.exe"
+    ]
+  },
+  {
+    "name": "Watch_Dogs",
+    "id":{
+      "uplay": ["274","543","737"]
+    },
+    "bin": [
+      "Watch_Dogs.exe"
+    ]
+  },
+  {
+    "name": "Assassin's Creed IV Black Flag",
+    "id":{
+      "uplay": ["273","442","565","619"]
+    },
+    "bin": [
+      "AC4BFMP.exe",
+      "AC4BFSP.exe"
+    ]
+  },
+  {
+    "name": "Far Cry 3 Blood Dragon",
+    "id":{
+      "uplay": ["205"]
+    },
+    "bin": [
+      "fc3_blooddragon.exe",
+      "fc3_blooddragon_d3d11.exe"
+    ]
+  },
+  {
+    "name": "Splinter Cell Blacklist",
+    "id":{
+      "uplay": ["91","444","449"]
+    },
+    "bin": [
+      "Blacklist_game.exe",
+      "Blacklist_DX11_game.exe"
+    ]
+  },
+  {
+    "name": "Trials Evolution Gold Edition",
+    "id":{
+      "uplay": ["78"]
+    },
+    "bin": [
+      "trialsFMX.exe"
+    ]
+  },
+  {
+    "name": "Assassin's Creed III",
+    "id":{
+      "uplay": ["54","102"]
+    },
+    "bin": [
+      "AC3MP.exe",
+      "AC3SP.exe"
+    ]
+  },
+  {
+    "name": "Far Cry 3",
+    "id":{
+      "uplay": ["46","101","599"]
+    },
+    "bin": [
+      "farcry3.exe",
+      "farcry3_d3d11.exe"
+    ]
+  },
+  {
+    "name": "Assassin's Creed Revelations",
+    "id":{
+      "uplay": ["40","5063"]
+    },
+    "bin": [
+      "ACRMP.exe",
+      "ACRPR.exe",
+      "ACRSP.exe"
+    ]
+  },
+  {
     "name": "Kingdom Hearts HD 1.5 and 2.5 ReMIX",
     "id":{
       "epic": "68c214c58f694ae88c2dab6f209b43e4"
@@ -36839,7 +37214,10 @@
       "steam": "1328670"
     },
     "bin": [
-      "MassEffectLauncher.exe"
+      "MassEffectLauncher.exe",
+      "MassEffect1.exe",
+      "MassEffect2.exe",
+      "MassEffect3.exe"
     ]
   },
   {
@@ -108702,15 +109080,6 @@
     ]
   },
   {
-    "name": "Assassin's Creed Odyssey",
-    "id": {
-      "steam": "812140"
-    },
-    "bin": [
-      "ACOdyssey.exe"
-    ]
-  },
-  {
     "name": "RAW FOOTAGE",
     "id": {
       "steam": "812090"
@@ -141885,15 +142254,6 @@
     ]
   },
   {
-    "name": "Transference",
-    "id": {
-      "steam": "647570"
-    },
-    "bin": [
-      "Transference.exe"
-    ]
-  },
-  {
     "name": "Pixel Shooter",
     "id": {
       "steam": "647280"
@@ -141927,15 +142287,6 @@
     },
     "bin": [
       "321.exe"
-    ]
-  },
-  {
-    "name": "The Crew 2",
-    "id": {
-      "steam": "646910"
-    },
-    "bin": [
-      "TheCrew2.exe"
     ]
   },
   {
@@ -153384,15 +153735,6 @@
     },
     "bin": [
       "Everything.exe"
-    ]
-  },
-  {
-    "name": "Assassin's Creed® Origins",
-    "id": {
-      "steam": "582160"
-    },
-    "bin": [
-      "ACOrigins.exe"
     ]
   },
   {
@@ -181824,15 +182166,6 @@
     },
     "bin": [
       "Arcade.exe"
-    ]
-  },
-  {
-    "name": "Trials of the Blood Dragon",
-    "id": {
-      "steam": "435480"
-    },
-    "bin": [
-      "trialsblooddragon.exe"
     ]
   },
   {
@@ -221704,15 +222037,6 @@
     },
     "bin": [
       "DotP_D14.exe"
-    ]
-  },
-  {
-    "name": "South Park™: The Stick of Truth™",
-    "id": {
-      "steam": "213670"
-    },
-    "bin": [
-      "South Park - The Stick of Truth.exe"
     ]
   },
   {
