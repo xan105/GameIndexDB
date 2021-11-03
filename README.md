@@ -32,6 +32,7 @@ Example
 
 Notice
 ======
-
+ 
 - A game has a corresponding platform id **only** if it has achievements on said platform. Yes, they are games that are available on multiple platforms but have achievements only on one.
 - "Uplay ID" is an **array** because uplay games aren't unique in the sense that they can have multiple ids based on ~~whatever~~ various reasons (regions, ...).
+- When a game uses a launcher for its executable(s), adding the launcher's binary to the game binaries _should_ only be allowed if the launcher stays hooked to the game's executable(s).
