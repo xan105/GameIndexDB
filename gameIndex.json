@@ -60227,9 +60227,10 @@
     ]
   },
   {
-    "name": "STAR WARS Jedi: Fallen Order™ ",
+    "name": "STAR WARS Jedi: Fallen Order™",
     "id": {
-      "steam": "1172380"
+      "steam": "1172380",
+      "origin": "75158_196485_50844"
     },
     "bin": [
       "starwarsjedifallenorder.exe"
