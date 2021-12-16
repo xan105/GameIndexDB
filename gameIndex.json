@@ -77460,7 +77460,9 @@
       "steam": "1072420"
     },
     "bin": [
-      "DQB2DO_EU.exe"
+      "DQB2.exe",
+      "DQB2_AS.exe",
+      "DQB2_EU.exe"
     ]
   },
   {
@@ -93561,7 +93563,7 @@
       "steam": "978780"
     },
     "bin": [
-      "STORY OF SEASONS Friends of Mineral Town_Compatibility.exe"
+      "STORY OF SEASONS Friends of Mineral Town.exe"
     ]
   },
   {
@@ -123747,7 +123749,7 @@
       "steam": "738540"
     },
     "bin": [
-      "TO_8_360_release.exe"
+      "TOV_DE.exe"
     ]
   },
   {
@@ -173202,7 +173204,7 @@
       "steam": "485510"
     },
     "bin": [
-      "nioh_launcher.exe"
+      "nioh.exe"
     ]
   },
   {
@@ -209104,7 +209106,8 @@
       "steam": "312660"
     },
     "bin": [
-      "SniperElite4.exe"
+      "SniperElite4_DX11.exe",
+      "SniperElite4_DX12.exe"
     ]
   },
   {
@@ -212443,7 +212446,7 @@
       "steam": "292140"
     },
     "bin": [
-      "FFXiii2Launcher.exe"
+      "ffxiii2img.exe"
     ]
   },
   {
@@ -212452,7 +212455,7 @@
       "steam": "292120"
     },
     "bin": [
-      "FFXiiiLauncher.exe"
+      "ffxiiiimg.exe"
     ]
   },
   {
@@ -219454,7 +219457,7 @@
       "steam": "238090"
     },
     "bin": [
-      "Sniper3Launcher.exe"
+      "SniperElite3.exe"
     ]
   },
   {
