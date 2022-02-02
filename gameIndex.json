@@ -1,5 +1,14 @@
 [
   {
+    "name": "Final Fantasy VII: Remake Intergrade",
+    "id": {
+      "epic": "FFVIIRemakeIntergrade"
+    },
+    "bin": [
+      "ff7remake_.exe"
+    ]
+  },
+  {
     "name": "Transference",
     "id": {
       "steam": "647570",
@@ -31562,7 +31571,7 @@
       "steam": "1369630"
     },
     "bin": [
-      "EnderLilies.exe"
+      "EnderLiliesSteam-Win64-Shipping.exe"
     ]
   },
   {
@@ -151226,7 +151235,7 @@
       "steam": "594570"
     },
     "bin": [
-      "launcher.exe"
+      "Warhammer2.exe"
     ]
   },
   {
@@ -214129,7 +214138,7 @@
       "steam": "281990"
     },
     "bin": [
-      "dowser.exe"
+      "stellaris.exe"
     ]
   },
   {
