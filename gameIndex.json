@@ -101564,7 +101564,8 @@
       "steam": "860510"
     },
     "bin": [
-      "Little Nightmares II.exe"
+      "Little Nightmares II.exe",
+      "Little_Nightmares_II_Enhanced.exe"
     ]
   },
   {
@@ -220150,7 +220151,9 @@
       "steam": "233130"
     },
     "bin": [
-      "launcher.exe"
+      "sw.exe",
+      "sw.Win32.exe",
+      "sw.x64.exe"
     ]
   },
   {
